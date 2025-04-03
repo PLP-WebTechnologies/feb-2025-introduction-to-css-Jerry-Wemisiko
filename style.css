@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lora', serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+}
+
+.brand-title {
+    font-size: 36px;
+    color: #b8860b;
+}
+
+.brand-tagline {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.watch-img {
+    width: 280px;
+    border: 4px solid #b8860b;
+    padding: 8px;
+}
+
+.watch-list {
+    list-style-type: disc;
+    font-size: 18px;
+}
